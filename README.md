@@ -10,5 +10,5 @@ This is the repository for my solutions to Blockchain course's coumputer assignm
 
 
 **Final Project:**
-A compelete literature review on Formal Barriers to Longest-Chain Proof-of-Stake Protocols
+- A Compelete Literature Review on Formal Barriers to Longest-Chain Proof-of-Stake Protocols
 
